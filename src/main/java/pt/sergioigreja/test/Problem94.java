@@ -3,8 +3,6 @@ package pt.sergioigreja.test;
 import java.util.ArrayList;
 import java.util.List;
 
-import pt.sergioigreja.test.TreeNode;
-
 public class Problem94 {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
